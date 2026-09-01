@@ -16,3 +16,4 @@ discord : takintilii
 
 Stealer build -> takinti.xyz
 stealer exe oluşturmak için -> takinti.xyz
+iletişim discord : takintilii
